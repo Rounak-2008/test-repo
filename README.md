@@ -1,7 +1,9 @@
 # test-repoacBook-Air ~ % git log -5 --oneline
 abb8191 (HEAD -> main) Initial commit: Sturecord.py
 yashgupta@YASHs-MacBook-Air ~ % cd "/Users/yashgupta/Library/Application Support/Claude/scratch-workspaces/d0fc6159-64bb-4508-a4d8-5361f1f7e527/a743fa33-b47c-4994-b7cb-32e417ddb24c/scratch-2026-10-31-183814"
-cd: no such file or directory: /Users/yashgupta/Library/Application Support/Claude/scratch-workspaces/d0fc6159-64bb-4508-a4d8-5361f1f7e527/a743fa33-b47c-4994-b7cb-32e417ddb24c/scratch-2026-10-31-183814
+cd: no such file or directory: /Users/yashgupta/Library/Application Support/Claude/scratch-workspaces/d0fc6159-64bb-4508-a4d8-5361f1f7e527/a743fa33-b47c-4994-b7cb-32e417ddb24c/scratch-2026-10-31-183814;
+
+hello """
 yashgupta@YASHs-MacBook-Air ~ % cd "/Users/yashgupta/Library/Application Support/Claude/scratch-workspaces/d0fc6159-64bb-4508-a4d8-5361f1f7e527/a743fa33-b47c-4994-b7cb-32e417ddb24c/scratch-2026-10-31-183814"
 cd: no such file or directory: /Users/yashgupta/Library/Application Support/Claude/scratch-workspaces/d0fc6159-64bb-4508-a4d8-5361f1f7e527/a743fa33-b47c-4994-b7cb-32e417ddb24c/scratch-2026-10-31-183814
 yashgupta@YASHs-MacBook-Air ~ % pwd
