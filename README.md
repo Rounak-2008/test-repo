@@ -13,7 +13,7 @@ yashgupta@YASHs-MacBook-Air ~ % ollama pull gemma4:e4b
 pulling manifest 
 pulling model: 100% ▕████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏ 9.5 GB                         
 writing manifest 
-success 
+success ##
 yashgupta@YASHs-MacBook-Air ~ % ollama list
 NAME           ID              SIZE      MODIFIED      
 gemma4:e4b     eb2177adf764    9.5 GB    4 seconds ago    
