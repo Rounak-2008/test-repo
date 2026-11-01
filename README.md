@@ -5,7 +5,7 @@ cd: no such file or directory: /Users/yashgupta/Library/Application Support/Clau
 yashgupta@YASHs-MacBook-Air ~ % cd "/Users/yashgupta/Library/Application Support/Claude/scratch-workspaces/d0fc6159-64bb-4508-a4d8-5361f1f7e527/a743fa33-b47c-4994-b7cb-32e417ddb24c/scratch-2026-10-31-183814"
 cd: no such file or directory: /Users/yashgupta/Library/Application Support/Claude/scratch-workspaces/d0fc6159-64bb-4508-a4d8-5361f1f7e527/a743fa33-b47c-4994-b7cb-32e417ddb24c/scratch-2026-10-31-183814
 yashgupta@YASHs-MacBook-Air ~ % pwd
-/Users/yashgupta
+/Users/yashgupta ##
 yashgupta@YASHs-MacBook-Air ~ % ollama list
 NAME           ID              SIZE     MODIFIED    
 gpt-oss:20b    17052f91a42e    13 GB    3 weeks ago    
